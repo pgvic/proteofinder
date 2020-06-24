@@ -20,3 +20,4 @@ encontrado una base de datos de PROSITE válida. Se recomienda su vigilancia.
 REPOSITORIO
 https://github.com/pgvic/proteofinder.git
 
+![proteoblaster_GUI](https://user-images.githubusercontent.com/67371346/85635683-beb6b180-b67e-11ea-84db-abe1fe4a1ef0.png)
