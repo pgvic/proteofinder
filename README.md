@@ -1,4 +1,4 @@
-# PROTEOBLASTER
+# PROTEOFINDER
 Víctor Patón González, Programación para Bioinformática (2020)
 
 ## REQUISITOS
